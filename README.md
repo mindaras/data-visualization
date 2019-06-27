@@ -1,4 +1,4 @@
 # data-visualization
 Data visualization examples.
-<br /><br />
+<br/><br/>
 ![Line chart](/lineChart.png)
